@@ -1,0 +1,4 @@
+﻿{
+    "connectionString": "mongodb://localhost/userTable",
+    "secret": "MY_JWT_SECRET"
+}
